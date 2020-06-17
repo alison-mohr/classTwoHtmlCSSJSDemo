@@ -1,0 +1,50 @@
+* {
+    outline: dotted;
+}
+
+body{
+    margin: 0 auto; 
+    width: 1000px; 
+    background-color: rgba(27,71, 218, .30);
+}
+
+main{
+    background-color: greenyellow; 
+}
+header{
+    margin-bottom: 10px;
+}
+ul li {
+    display: inline; 
+    padding: 10px; 
+    background-color: rgb (85,136,212);
+    border-radius: 15px;
+}
+ol li {
+    display: inline; 
+    padding: 10px; 
+    background-color: rgb(85, 136, 212); 
+    border-radius: 15px;
+}
+h1{
+    background-color: hotpink; 
+    color: #f50efd; 
+    font-size: 50px; 
+    text-shadow: 2px 2px ivory; 
+}
+
+nav{
+background-color: rgb(44, 94, 141);
+height: 250px;
+}
+.more-styles {
+    color: white;
+    background-color: #0000FF; 
+}
+#another-style {
+border: 5px solid #00FF00;
+}
+
+section p.more-styles{
+background-color: red;
+}
